@@ -2,7 +2,7 @@
     <nav class="row navbar navbar-expand-lg navbar-light bg-white">
         <div class="container-fluid">
 
-            <a href="#" class="navbar-brand">
+            <a href="{{route('home')}}" class="navbar-brand">
                 <img src="frontend/assets/images/logo.png" alt="logo travuix" />
             </a>
 
